@@ -73,9 +73,9 @@ Instead of saving files on the server, the backend uploads images directly to Cl
 
 ## ⚙️ Environment Variables
 
-Create a `.env` file inside the **backend folder**.
-CLOUD_NAME=your_cloudinary_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
+- Create a `.env` file inside the **backend folder**.
+- CLOUD_NAME=your_cloudinary_cloud_name
+- CLOUDINARY_API_KEY=your_api_key
+- CLOUDINARY_API_SECRET=your_api_secret
+- MONGO_URI=your_mongodb_connection_string
+- PORT=5000
